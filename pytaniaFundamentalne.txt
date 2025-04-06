@@ -34,23 +34,23 @@
 	α = l/R
 17. Definicja przyspieszenia kątowego
 	Przyspieszenie kątowe jest to zmiana wektora prędkości kątowej w czasie.
-18. Definicja momentu siły (wzór, jednostka, wartość)
+18. Definicja środka masy
+	punkt charakteryzujący rozkład masy w ciele, określony tak, by w opisie ruchu ciała zastąpić je punktem materialnym
+19. Definicja momentu siły (wzór, jednostka, wartość)
 	Moment siły jest to iloczyn wektorowy wektora siły i wektora ramienia. M-> = r-> x F-> M = rFsinα [kgm^2/s^2]
-19. Druga zasada dynamiki dla ruchu obrotowego
+20. Druga zasada dynamiki dla ruchu obrotowego
 	Jeżeli na bryłę działa moment siły to obraca się ona z przyspieszeniem kątowym wprost proporcjonalnym do momentu siły i odwrotnie proporcjonalnym do momentu bezwładności.
-20. Definicja wzór jednostka momentu pędu
+21. Definicja wzór jednostka momentu pędu
 	Moment pędu jest to iloczyn wektorowy wektora pędu i wektora ramienia. L-> = r-> x p-> L = rpsinα. Dodatkowo L = Iω [kgm^2/s]
-21. Reguła prawej dłoni
+22. Reguła prawej dłoni
 	Jeżeli 4 palce ustawimy wzdłuż wektora siły to wektor momentu siły będzie miał kierunek taki sam jak kciuk
-22. Prawo Pascala
+24. Prawo Pascala
 	Jeżeli na płyn w zbiorniku wywierane jest ciśnienie zewnętrzne, to (skip ciśnienie hydrostatyczne) ciśnienie wewnątrz zbiornika jest wszędzie jednakowe i równe ciśnieniu 	zewnętrznemu.
-
-23. Definicja wzór jednostka ciśnienia
+25. Definicja wzór jednostka ciśnienia
 	Ciśnienie jest to stosunek wartości siły (działającej prostopadle do powierzchni) do powierzchni na jaką naciska ta siła. p = F/S [Pa] 
-24. Definicja wzór jednostka gęstości
+26. Definicja wzór jednostka gęstości
 	Gęstość jest to stosunek masy do objętości przez niej zamjmowanej. d = m/V [kg/m^3]
-25. Prawo Archimedesa
+27. Prawo Archimedesa
 	Na ciało zanurzone w cieczy działa siła wyporu, skierowana ku górze i równa co do wartości ciężarowi cieczy wypartej przez to ciało.
-26. Wzór na objętość kuli
+28. Wzór na objętość kuli
 	4/3*pi*r^3
-	
